@@ -14,7 +14,7 @@ JSON dosyasını projelerinizde kullanarak Türkçe ülke adlarıyla birlikte te
 <script src="https://gist.github.com/furkan-dogu/710be9cd650964f547bb93f4b11f5668.js"></script>
 ```
 
-Bu script ile de projenie dahil edebilirsiniz.
+Bu script ile de projenize dahil edebilirsiniz.
 
 ## Ülke Bayraklarına Erişim
 
