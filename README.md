@@ -10,6 +10,12 @@ Birçok kaynakta ülke telefon kodları genellikle İngilizce veya başka diller
 
 JSON dosyasını projelerinizde kullanarak Türkçe ülke adlarıyla birlikte telefon kodlarına kolayca ulaşabilirsiniz.
 
+```
+<script src="https://gist.github.com/furkan-dogu/710be9cd650964f547bb93f4b11f5668.js"></script>
+```
+
+Bu script ile de projenie dahil edebilirsiniz.
+
 ## Ülke Bayraklarına Erişim
 
 Her ülkenin bayrağına, telefon kodunu kullanarak şu formatta erişebilirsiniz:
